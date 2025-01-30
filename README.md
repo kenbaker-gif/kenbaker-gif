@@ -8,7 +8,7 @@
 🛠 **Tech Stack**: Python (NumPy, Pandas, Scikit-Learn, TensorFlow), JavaScript, R  
 🔗 Check out my projects below!  
 
-📫 Reach me at: (Optional: Add your email or socials)  
+📫 Reach me at: (ricoreina57@gmail.com)  
 
 
 <!--
